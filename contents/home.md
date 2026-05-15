@@ -9,5 +9,5 @@ He is currently a Fellow in the company.
 Email: 
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning
 
