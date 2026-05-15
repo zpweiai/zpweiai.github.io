@@ -2,7 +2,7 @@
 
 [![zpweiai](https://img.shields.io/badge/zpweiai-github-blue?logo=github)](https://github.com/zpweiai)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Fellow in the company.
 
 #### Contact
 
