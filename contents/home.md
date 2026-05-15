@@ -1,6 +1,6 @@
 
 
-[![zpweiai](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/zpweiai)
+[![zpweiai](https://img.shields.io/badge/zpweiai-github-blue?logo=github)](https://github.com/zpweiai)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
